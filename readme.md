@@ -6,5 +6,6 @@ Demonstration of the new Navigation API's in iOS16.  We dicussed:
   * `NavigationStack`
   * `NavigationPath`
   * Deep linking and deserialization of NavigationPath to JSON
-  * State restoration with @SceneStorage (not the save interval is infrequent, use @AppStorage if you want to see it work more reliably) 
+  * State restoration with @SceneStorage (not the save interval is infrequent, use @AppStorage if you want to see it work more reliably)
+ 
 ![image](./preview.gif "Preview")
